@@ -1,0 +1,8 @@
+
+
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preco do Ticket: R$10.00

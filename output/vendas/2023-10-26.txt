@@ -1,0 +1,106 @@
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+Informações da Venda:
+Nome do Cliente: 2
+Idade do Cliente: 2
+Telefone do Cliente: 2
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 11
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: 1
+Idade do Cliente: 1
+Telefone do Cliente: 1
+Tipo de Ticket: Ticket - 150 anos de Santos Dumon
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: 2
+Idade do Cliente: 2
+Telefone do Cliente: 2
+Tipo de Ticket: Ticket - 150 anos de Santos Dumon
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: Diogo
+Idade do Cliente: 19121996
+Telefone do Cliente: 11964282732
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: b
+Idade do Cliente: 0
+Telefone do Cliente: b
+Tipo de Ticket: Ticket - 100 anos da semana de arte moderna.
+Preço do Ticket: R$10.00
+
+
+Informações da Venda:
+Nome do Cliente: k
+Idade do Cliente: 5
+Telefone do Cliente: 3
+Tipo de Ticket: Ticket - 150 anos de Santos Dumon
+Preço do Ticket: R$10.00
